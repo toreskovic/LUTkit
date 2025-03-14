@@ -1,0 +1,6 @@
+__pycache__/
+
+*.cube
+*.png
+
+!LUT neutral 16.png
